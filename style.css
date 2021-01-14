@@ -1,0 +1,51 @@
+.navbar-nav{
+    margin-left: auto;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.top-banner{
+    background-color: #fcf9f1;
+    padding: 2%;
+}
+header{
+    background-color: #fcf9f1;
+}
+.Fashion-footer{
+    background-color: white;
+    border: 0ch;
+}
+.container card-img{
+    background-color: violet;
+}
+.half-weith{
+    margin-left: auto;
+}
+.card{
+    padding: 15px;
+}
+.right-imag{
+    width: 700px;
+}
+.footer{
+    margin-top: 50px;
+    background-color: #000000;
+    color: #fff;
+}
+.footer h1{
+    font-size: 20px;
+    margin: 30px 0;
+}
+.footer p{
+    font-size: 12px;
+}
+.footer img{
+    width: 100px;
+}
+.bottom-section{
+    height: 650px;
+}
+.footer p a{
+    text-decoration: none;
+    color: white;
+}
